@@ -10,6 +10,7 @@ Mainly focused on forest.
 
 # Installation
 *Make sure to install every shaderpack in the ReShade installation*
+
 **Download and extract the mod into your ./BepInEx/plugins folder**
 
 FANTASIA PC INSTALLATION
